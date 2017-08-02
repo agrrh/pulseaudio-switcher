@@ -3,7 +3,7 @@
 ## How it works
 
 -   Copy script somewhere, I personally store it as `~/.scripts/pulseaudio-switcher/pulseaudio-switcher.sh`
--   Bind some handy shortcut, for example `Ctrl+Home`
+-   Bind some handy shortcut, for example `Ctrl` + `Home` or one of media keys, if present
 -   Enjoy fast headphones/speakers switch
 
 ![screenshot](./screenshot.png)
